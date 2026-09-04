@@ -6,3 +6,4 @@ hello - date sep 4
 
 
 added login feature
+demo for commit msg
